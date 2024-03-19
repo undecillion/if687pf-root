@@ -1,0 +1,12 @@
+Sem problemas! O CIn é dividido em blocos, cada um com suas próprias salas e laboratórios. Vou te dar uma visão geral.	voice_line_0_
+Blocos A, B e C - O Prédio Vermelho	voice_line_1_
+Térreo: Aqui você encontra principalmente laboratórios e algumas salas administrativas. É um bom ponto de referência para começar a explorar o CIn.	voice_line_2_
+1º andar: Este andar abriga mais laboratórios de pesquisa e salas de professores. Se você está procurando por um professor específico, é provável que a sala dele esteja aqui.	voice_line_3_
+2º andar: Similar ao primeiro, com salas de professores e alguns laboratórios. É aqui que muitas reuniões acadêmicas acontecem.	voice_line_4_
+Bloco D - Parte do CCEN	voice_line_5_
+Este bloco é um pouco separado dos demais e tem uma conexão direta com o Centro de Ciências Exatas e da Natureza (CCEN). Geralmente, é utilizado para aulas teóricas de matemática e estatística.	voice_line_6_
+Bloco E - O Prédio Branco	voice_line_7_
+Térreo e Mezanino: O térreo tem algumas salas de aula grandes e laboratórios de ensino. O mezanino é um espaço aberto para estudos e projetos.	voice_line_8_
+1º, 2º, 3º e 4º andares: Esses andares possuem uma mistura de salas de aula, laboratórios de pesquisa e espaços de estudo. O 4º andar é particularmente conhecido pelos seus laboratórios de pesquisa avançada.	voice_line_9_
+No site do CIn, você pode encontrar mapas detalhados de cada bloco e andar. Esses mapas te darão uma visão clara de onde tudo está localizado. Além disso, sempre há placas informativas espalhadas pelos corredores.	voice_line_10_
+De nada! E lembre-se, se você se perder, não hesite em perguntar. Todos aqui estão dispostos a ajudar.	voice_line_11_

@@ -1,0 +1,16 @@
+Claro! O SIGAA é o Sistema de Informações e Gestão Acadêmica da UFPE, um portal essencial para a sua jornada acadêmica. Ele gerencia desde sua matrícula até o acompanhamento do seu progresso. Vou te guiar pelas funcionalidades principais.	voice_line_0_
+Em relação ao primeiro acesso:	voice_line_1_
+Acesse o site do SIGAA: acesse o site sigaa.ufpe.br e clique em Login e subsequentemente Cadastre-se.	voice_line_2_
+Preencha o Formulário: preencha o formulário com seus dados pessoais. O cadastro só será validado se os dados digitados forem iguais aos dados informados no processo seletivo.	voice_line_3_
+Após o cadastro, você terá acesso a diversas funcionalidades, como:	voice_line_4_
+Matrícula: você pode realizar sua matrícula em disciplinas, consultar o histórico escolar e visualizar o plano de ensino das disciplinas.	voice_line_5_
+Acompanhamento: você pode acompanhar o seu desempenho acadêmico, consultar o calendário acadêmico e visualizar o seu plano de estudos.	voice_line_6_
+Documentos: você pode acessar documentos importantes, bem como solicitar suas emissões.	voice_line_7_
+Além disso, o SIGAA é uma ferramenta essencial para a comunicação entre alunos e professores, pois é por meio dele que você terá acesso a informações sobre eventos, notícias e comunicados.	voice_line_8_
+Alguns detalhes sobre o SIGAA que podem ser úteis:	voice_line_9_
+Se você for um aluno blocado (cumprindo o currículo dentro do prazo esperado), o SIGAA montará automaticamente sua grade horária com as disciplinas obrigatórias do seu período atual. Confirmar essa grade significa que sua matrícula nesses componentes está assegurada.	voice_line_10_
+Para alunos não blocados, o sistema tenta montar uma grade horária com disciplinas pendentes, mas você competirá (em prioridade) por vagas com outros alunos, o que significa que sua matrícula pode ou não ser confirmada, dependendo da disponibilidade.	voice_line_11_
+O aluno também é livre para montar sua grade horária manualmente, escolhendo disciplinas e horários de acordo com sua preferência e disponibilidade.	voice_line_12_
+A prioridade é determinada pela sua situação acadêmica e ranking. Alunos concluintes blocados têm a maior prioridade, seguidos por alunos blocados, concluintes não blocados, e, por último, alunos não blocados. Em caso de empate, prevalece o aluno com maior ranking.	voice_line_13_
+Após o período de matrícula inicial, você entra no período de modificação, onde pode adicionar ou cancelar disciplinas conforme necessário.	voice_line_14_
+Lembre-se de que o SIGAA é uma ferramenta poderosa para gerenciar sua vida acadêmica, então explore-o e familiarize-se com suas funcionalidades. Se tiver mais dúvidas, estou aqui para ajudar!	voice_line_15_

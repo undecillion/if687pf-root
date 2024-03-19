@@ -1,0 +1,9 @@
+Na verdade, o CIn não possui lanchonetes ou restaurantes internamente. Mas não se preocupe, há opções próximas para você explorar!	voice_line_0_
+Almir Refeições oferece refeições completas e variadas. Você pode conferir o menu do dia e fazer pedidos pelo WhatsApp. O contato é (81) 99568-6578.	voice_line_1_
+Conhecido pelos seus salgados variados e refeições rápidas, Marcelinho dos Salgados é uma ótima escolha para um lanche entre as aulas.	voice_line_2_
+Para mais informações, acesse salgadoscin.com.br	voice_line_3_
+Além dessas opções, algumas dicas...	voice_line_4_
+Cantina da Área II e Restaurante da ASSIF: São locais próximos para almoço, oferecendo uma variedade de pratos a preços acessíveis.	voice_line_5_
+Existem várias lanchonetes e restaurantes dentro e nos arredores da universidade. Vale a pena explorar e encontrar seus favoritos.	voice_line_6_
+Considere o uso de delivery para receber suas refeições no CIn. Algumas plataformas de entrega, como o iFood, entregam no CIn. Para endereço de entrega, use Av. Jornalista Aníbal Fernandes, 500 - Cidade Universitária, CEP 50740-560, indicando o Centro de Informática como ponto de referência.	voice_line_7_
+De nada! Se tiver mais alguma dúvida ou precisar de sugestões, estou aqui para ajudar. Bom apetite!	voice_line_8_

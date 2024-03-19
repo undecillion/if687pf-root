@@ -1,0 +1,7 @@
+Com certeza! As copas são espaços comuns que todos os alunos podem usar, localizadas no térreo do Bloco B e no mezanino do Bloco E.	voice_line_0_
+A estrutura das copas geralmente é composta de geladeira, micro-ondas, gelágua, máquina de café em cápsula, e pia para limpeza de utensílios. Como todo espaço comum, é importante seguir algumas diretrizes para garantir que todos possam aproveitar esses espaços da melhor forma possível.	voice_line_1_
+Use a geladeira para guardar sua comida, mas evite sacos plásticos que ocupam muito espaço. Guarde apenas o necessário e lembre-se de retirar seus itens ao final do dia.	voice_line_2_
+Após comer, descarte os restos de comida no lixo e não na pia, evitando entupimentos. Lave, enxugue e guarde seus utensílios. A copa não é um lugar para armazenar itens pessoais.	voice_line_3_
+Não coloque garrafas PET no congelador. Elas podem estourar e danificar o refrigerador.	voice_line_4_
+É necessário trazer seu próprio copo ou garrafa para beber água. O CIn não fornece copos descartáveis ou cápsulas de café. A responsabilidade de trazer esses itens é dos alunos.	voice_line_5_
+De nada! Lembre-se, o respeito e a responsabilidade no uso das áreas comuns são essenciais para manter um bom ambiente para todos no CIn. Se tiver mais alguma dúvida, estou aqui para ajudar.	voice_line_6_

@@ -1,0 +1,13 @@
+Claro! Vamos por partes, para a primeira via e para as demais vias do seu crachá, os processos são um pouco diferentes.	voice_line_0_
+Para a primeira via do crachá:	voice_line_1_
+Envio de Foto: Você deve enviar para o e-mail cracha@cin.ufpe.br uma foto de rosto com fundo claro. É importante que a foto esteja numa proporção de 3:4 para evitar distorções na impressão. O arquivo da foto deve ser nomeado seguindo o formato "pessoa_CPF.jpg", com o CPF contendo apenas dígitos.	voice_line_2_
+Aguardar E-mail de Confirmação: Depois de enviar a foto, você receberá um e-mail informando que o crachá foi emitido.	voice_line_3_
+Retirada: Com o e-mail de confirmação em mãos, vá até a Secretaria de Graduação com um documento oficial com foto para retirar seu crachá.	voice_line_4_
+Para a emissão da 2ª via ou demais vias:	voice_line_5_
+Formulário: Primeiro, baixe o formulário de solicitação de remissão de crachá e termo de responsabilidade disponível online.	voice_line_6_
+Preenchimento: Preencha o formulário corretamente, date e assine.	voice_line_7_
+Envio do Formulário: Escaneie o formulário preenchido e envie-o para cracha2via@cin.ufpe.br.	voice_line_8_
+Aguardar E-mail de Confirmação: Assim como na primeira via, você receberá um e-mail informando que o crachá foi emitido.	voice_line_9_
+Retirada: Com o e-mail de confirmação, vá até a Secretaria de Graduação para retirar seu crachá.	voice_line_10_
+É essencial garantir que os dados preenchidos no formulário estejam legíveis e corretos, especialmente seus dados pessoais como Nome, CPF, login e vínculo. Isso facilitará o processo e evitará atrasos na emissão do seu crachá.	voice_line_11_
+Sem problemas! Se precisar de mais alguma coisa ou tiver dúvidas, estou aqui para ajudar. Boa sorte com a sua jornada aqui no CIn!	voice_line_12_

@@ -1,0 +1,10 @@
+Entendi, vou te explicar! A VPN do CIn permite que você acesse serviços restritos à rede interna da UFPE remotamente, como artigos científicos, hospedagem de sites e serviços de impressão.
+Passos para Acessar a VPN:
+Acesso ao Serviço: Primeiro, você precisa visitar a página do HelpDesk sobre a VPN através do link. Lá, você encontrará instruções detalhadas específicas para o seu sistema operacional.
+Configuração: Dependendo do seu dispositivo, o processo de configuração da VPN pode variar. Geralmente, você precisará baixar e instalar um software VPN, como o OpenVPN ou qualquer cliente VPN recomendado pela página do HelpDesk.
+Dados de Login: Para se conectar, use seu login e senha do CIn. Certifique-se de seguir as instruções de configuração para inserir os dados corretamente.
+Serviços Acessíveis via VPN:
+Artigos Científicos: Acesso gratuito a diversos artigos científicos e bases de dados que normalmente requerem uma subscrição.
+Hospedagem de Sites: Você pode fazer upload de arquivos para seu espaço de hospedagem web usando uma conexão SFTP segura, desde que esteja conectado à VPN.
+Serviços de Impressão: Para imprimir documentos nos laboratórios do CIn de seu computador pessoal, você também precisará estar conectado à VPN.
+Excelente! Se tiver alguma dúvida ou dificuldade, não hesite em consultar a página do HelpDesk ou entrar em contato com o suporte técnico do CIn. Estamos aqui para ajudar!

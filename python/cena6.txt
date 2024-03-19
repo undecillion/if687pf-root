@@ -1,0 +1,24 @@
+Sim, o CIn é um centro de excelência que oferece várias oportunidades para expandir seus conhecimentos e habilidades. Vamos detalhar algumas delas:
+PET-Informática
+O que é: Programa de Educação Tutorial financiado pela SESu/MEC, visando a melhoria do ensino de graduação e a formação ampla do aluno através de ensino, pesquisa e extensão.
+Atividades: Olimpíada Pernambucana de Informática, Curso de Férias em Python, CIn Salva Vidas em parceria com o HEMOPE, HackaPET, SharePET para workshops, e manutenção da CInWiki e do Manual de Sobrevivência.
+Como participar: O processo seletivo ocorre anualmente e inclui análise de currículo, entrevistas e dinâmicas em grupo. Monitoria e Iniciação Científica são valorizadas, mas não obrigatórias.
+Maratona de Programação
+Descrição: Competição de programação que desafia os alunos a resolver problemas complexos no menor tempo possível. O CIn tem um histórico de excelência na maratona, com múltiplos títulos regionais e participações em mundiais.
+Benefícios: Desenvolve habilidades em lógica, programação e trabalho em equipe. É uma grande porta de entrada para o mercado de trabalho na área de tecnologia.
+Voxar Labs
+Foco: Pesquisa em realidade aumentada, realidade virtual, computação gráfica e inteligência artificial. Envolve projetos com cooperação internacional e com a indústria.
+Como se envolver: Ideal para quem tem interesse em pesquisa aplicada e desenvolvimento de novas tecnologias.
+Apple Developer Academy
+O que é: Centro de treinamento em parceria com a Apple, oferecendo formação interdisciplinar em desenvolvimento para iOS, watchOS e tvOS.
+Para quem: Aberto a estudantes de qualquer curso da UFPE, é uma excelente oportunidade para aprender a resolver problemas reais usando tecnologia.
+E.S.T.U.F.A.
+Descrição: Foco em sistemas embarcados, oferecendo um ambiente colaborativo para desenvolvimento de projetos e pesquisa aplicada.
+Como participar: Acompanhe chamadas para projetos e desenvolvedores, principalmente via Instagram.
+RobôCIn
+Áreas: Inteligência Artificial, Visão Computacional, Mecânica e Eletrônica aplicada à robótica.
+Benefícios: Participação em competições nacionais e internacionais, desenvolvimento de projetos inovadores em robótica.
+CITi e DACin
+CITi: Empresa júnior que oferece serviços de TI e desenvolvimento de software, com oportunidades de aprendizado prático em projetos reais.
+DACin: Diretório Acadêmico que representa os alunos do CIn, organizando eventos, debates e atividades culturais.
+Exatamente! E essas são apenas algumas das oportunidades disponíveis. O CIn é um lugar onde você pode realmente mergulhar na computação e descobrir sua paixão.

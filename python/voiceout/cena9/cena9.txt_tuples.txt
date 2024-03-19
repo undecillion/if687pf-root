@@ -1,0 +1,10 @@
+Claro! O Help Desk é sua linha de suporte para qualquer problema ou dúvida sobre os recursos tecnológicos oferecidos pelo CIn. Aqui está como você pode obter ajuda:	voice_line_0_
+Localização e Contato	voice_line_1_
+Onde: A Administração de Sistemas do CIn opera na sala B011, que fica próxima à Copa do Bloco B. É lá que a equipe do Help Desk está baseada.	voice_line_2_
+Como Entrar em Contato: Todas as solicitações de suporte devem ser enviadas para o e-mail helpdesk@cin.ufpe.br. Isso inclui desde dúvidas sobre como conectar-se à rede Wi-Fi até problemas mais complexos com os serviços de hospedagem.	voice_line_3_
+Serviços Oferecidos	voice_line_4_
+O Help Desk pode ajudá-lo com uma ampla gama de questões, como acesso à rede interna, problemas de login, configuração de VPN, utilização de impressoras no centro, entre outros. Eles também fornecem suporte para problemas relacionados à G Suite disponibilizada para os alunos.	voice_line_5_
+Para uma lista completa dos serviços e orientações sobre como utilizá-los, você pode visitar o site. Lá, você encontrará guias detalhados e FAQs que podem resolver sua dúvida rapidamente.	voice_line_6_
+Importante	voice_line_7_
+Lembre-se de que o uso indevido dos recursos tecnológicos do CIn pode resultar no bloqueio ou suspensão do seu acesso, incluindo computadores e serviços online. Portanto, é importante seguir as políticas de uso adequado.	voice_line_8_
+Excelente! Eles são bastante responsivos e vão ajudar você a resolver qualquer questão. Se tiver mais alguma dúvida ou precisar de ajuda com outra coisa, estou aqui.	voice_line_9_

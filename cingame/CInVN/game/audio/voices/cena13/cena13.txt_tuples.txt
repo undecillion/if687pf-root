@@ -1,0 +1,12 @@
+Sim, é verdade! Todos os alunos têm a possibilidade de reservar salas no CIn, exceto as salas de reunião. Aqui estão os passos que você precisa seguir para fazer uma reserva:	voice_line_0_
+Passo 1: Verificar Disponibilidade	voice_line_1_
+Primeiramente acesse o site de reservas para verificar a disponibilidade da sala desejada	voice_line_2_
+Passo 2: Solicitação por E-mail	voice_line_3_
+Após escolher a sala e verificar que está disponível para o período desejado, envie um e-mail para secgrad@cin.ufpe.br. No assunto do e-mail, especifique que deseja reservar uma sala.	voice_line_4_
+No corpo do e-mail, informe qual sala você deseja reservar, o período da reserva e o motivo da reserva.	voice_line_5_
+Passo 3: Esperar Confirmação	voice_line_6_
+Aguarde receber um e-mail de confirmação da Secretaria de Graduação, confirmando que sua reserva foi efetuada com sucesso.	voice_line_7_
+Passo 4: Retirada da Chave/Cartão	voice_line_8_
+No período reservado, você deve ir à portaria ou à Secretaria de Graduação, se identificar e solicitar a chave ou o cartão da sala reservada.	voice_line_9_
+Não, o serviço de reserva de salas é gratuito para os alunos. Apenas certifique-se de usar a sala reservada para o fim especificado na sua solicitação e de devolver a chave ou cartão após o uso.	voice_line_10_
+De nada! Se precisar de mais alguma coisa ou tiver outras dúvidas, estou à disposição. Boa sorte com seus estudos!	voice_line_11_

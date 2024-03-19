@@ -1,0 +1,12 @@
+Claro, a Secretaria de Graduação é um ótimo recurso para os alunos! Eles são responsáveis por todo o acompanhamento acadêmico dos alunos de graduação no CIn. Vou te explicar melhor como você pode utilizar os serviços deles.	voice_line_0_
+A Secretaria de Graduação fica no primeiro andar do Bloco E (após o mezanino.) Você pode visitar a secretaria pessoalmente ou, se preferir, entrar em contato através do e-mail secgrad@cin.ufpe.br.	voice_line_1_
+Eles podem te ajudar com uma variedade de questões, como:	voice_line_2_
+Alteração de Matrícula: Se você precisar alterar sua matrícula depois do período regular, a Secretaria pode ajudar.	voice_line_3_
+Matrícula em Disciplinas Isoladas e Eletivas de Outros Centros: Para explorar disciplinas fora do seu curso ou centro, a Secretaria orienta como proceder.	voice_line_4_
+Cancelamento de Disciplina e Trancamento de Período: Se você estiver passando por dificuldades e precisar ajustar sua carga horária, eles podem orientar sobre os procedimentos necessários.	voice_line_5_
+Pedido de Segunda Chamada de Provas e Revisão de Provas: Caso haja necessidade, a Secretaria gerencia esses pedidos.	voice_line_6_
+Declarações e Documentos: Para obtenção de declarações acadêmicas e outros documentos, é só solicitar.	voice_line_7_
+Esclarecimentos sobre Regras, Disciplinas, Horários, Matrículas, e o SIG@: Qualquer dúvida acadêmica, a Secretaria está pronta para ajudar.	voice_line_8_
+Recursos Online	voice_line_9_
+No site, você pode encontrar uma vasta quantidade de informações úteis, como listas de docentes, grades curriculares, horários do semestre, alocações das salas de aulas, códigos das disciplinas, e o calendário acadêmico da UFPE.	voice_line_10_
+Ótimo! Eles estão lá para ajudar, então não hesite em procurá-los sempre que precisar. Lembre-se que manter uma boa comunicação com a Secretaria de Graduação pode facilitar muito sua vida acadêmica no CIn.	voice_line_11_

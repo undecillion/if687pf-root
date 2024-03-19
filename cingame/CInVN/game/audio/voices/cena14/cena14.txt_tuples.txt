@@ -1,0 +1,12 @@
+Claro, temos algumas opções de rede Wi-Fi aqui no CIn. Vou te explicar sobre cada uma delas para você decidir qual usar.	voice_line_0_
+Rede CINUFPE	voice_line_1_
+Descrição: Esta é a rede principal do CIn, destinada a alunos, professores e servidores. Oferece a maior velocidade de transferência entre todas as redes Wi-Fi disponíveis no centro. O uso dessa rede é altamente recomendado para uma conexão rápida e estável.	voice_line_2_
+Acesso: Para se conectar, use seu login e senha do CIn. Essa rede tem pequenos bloqueios para evitar uso indevido.	voice_line_3_
+Rede CINGUESTS	voice_line_4_
+Descrição: Essa é a rede para visitantes do CIn. Tem velocidade limitada e diversos bloqueios, o que pode restringir o acesso a certos serviços.	voice_line_5_
+Acesso: A senha para essa rede é acessocin. É uma boa opção para visitantes ou quando você estiver com dificuldades de acesso à rede principal.	voice_line_6_
+Rede eduroam	voice_line_7_
+Descrição: A eduroam é uma rede livre, disponível em todo o campus da UFPE, e não só no CIn. É destinada a alunos, professores e servidores da universidade.	voice_line_8_
+Acesso: Use seu e-mail institucional do SIG@ e a Senha de Serviços Integrados da UFPE para se conectar. O e-mail institucional do SIG@ é diferente do seu login do CIn.	voice_line_9_
+Importante lembrar que, para acessar a rede eduroam, sua Senha de Serviços Integrados pode ser alterada por meio do SIG@, caso você não a lembre.	voice_line_10_
+De nada! Se tiver mais alguma dúvida ou dificuldade, sinta-se livre para perguntar. Estamos aqui para ajudar.	voice_line_11_

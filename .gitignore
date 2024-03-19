@@ -1,0 +1,14 @@
+.vscode
+.history
+/dbuild
+/cingame/creating_assets
+/cingame/plugins
+/cingame/CInVN-1.0-dists
+/python/voiceout/garbage
+*.pyc
+*.pyo
+*.pyd
+*.rpyc
+*.rpym
+*.rpymc
+*.code-workspace
